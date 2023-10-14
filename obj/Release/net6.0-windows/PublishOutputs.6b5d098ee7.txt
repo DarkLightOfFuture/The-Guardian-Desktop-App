@@ -1,0 +1,13 @@
+C:\Users\Krystian\Desktop\guardian program\current_section.txt
+C:\Users\Krystian\Desktop\guardian program\guardian_wpf.exe
+C:\Users\Krystian\Desktop\guardian program\icons\apostrophe.png
+C:\Users\Krystian\Desktop\guardian program\icons\bar.png
+C:\Users\Krystian\Desktop\guardian program\icons\barSecond.png
+C:\Users\Krystian\Desktop\guardian program\icons\properties.png
+C:\Users\Krystian\Desktop\guardian program\guardian_wpf.dll
+C:\Users\Krystian\Desktop\guardian program\guardian_wpf.deps.json
+C:\Users\Krystian\Desktop\guardian program\guardian_wpf.runtimeconfig.json
+C:\Users\Krystian\Desktop\guardian program\guardian_wpf.pdb
+C:\Users\Krystian\Desktop\guardian program\FontAwesome.WPF.dll
+C:\Users\Krystian\Desktop\guardian program\HtmlAgilityPack.dll
+C:\Users\Krystian\Desktop\guardian program\Newtonsoft.Json.dll

@@ -1,0 +1,12 @@
+C:\Users\Krystian\Desktop\guardian\guardian_wpf.exe
+C:\Users\Krystian\Desktop\guardian\guardian_wpf.dll
+C:\Users\Krystian\Desktop\guardian\guardian_wpf.deps.json
+C:\Users\Krystian\Desktop\guardian\guardian_wpf.runtimeconfig.json
+C:\Users\Krystian\Desktop\guardian\guardian_wpf.pdb
+C:\Users\Krystian\Desktop\guardian\FontAwesome.WPF.dll
+C:\Users\Krystian\Desktop\guardian\HtmlAgilityPack.dll
+C:\Users\Krystian\Desktop\guardian\MaterialDesignColors.dll
+C:\Users\Krystian\Desktop\guardian\MaterialDesignThemes.Wpf.dll
+C:\Users\Krystian\Desktop\guardian\Microsoft.Xaml.Behaviors.dll
+C:\Users\Krystian\Desktop\guardian\Newtonsoft.Json.dll
+C:\Users\Krystian\Desktop\guardian\WpfAnimatedGif.dll
